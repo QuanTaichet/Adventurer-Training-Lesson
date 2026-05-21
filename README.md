@@ -34,13 +34,12 @@ Welcome to **Adventurer Training Lesson**, a 2D side-scrolling action-platformer
 ---
 
 ## 👥 Development Team & Contributions
-* **Member 1 (OOP Fundamentals Architect):** Core structural taxonomy design, Abstraction & Encapsulation data safeguards, and UML Class Diagram orchestration.
-* **Member 2 (Polymorphism & Inheritance Master):** Entity lineage integration, dynamic multi-tier override rendering pipelines, and generic dynamic mob list managers.
-* **Member 3 (Design Patterns & Loop Engineer):** Real-time Delta Time Game Loop synchronization, Lightweight State machine flags implementation, and Central Hub communication network.
-* **Member 4 (Physics & Platform Collision Specialist):** Custom Axis-Aligned Bounding Box (AABB) intersection engine, horizontal/vertical platform snapping rules, and out-of-bounds abyss threshold ($Y > 600$) game termination tracking.
-* **Member 5 (SOLID Principles Reviewer - S/O/L):** Code factorization for Single Responsibility compliance, Open/Closed abstract scalability, and Liskov substitution correctness verification.
-* **Member 6 (SOLID Principles Reviewer - I/D & UI Systems):** Lightweight user input listener decoupling, structural Dependency Inversion framework compliance, and Win/Lose state real-time overlay graphics renderers.
-
+* **Member 1 (OOP Encapsulation & Abstraction Specialist):** Focus on data hiding via access modifiers (`private`/`protected`), structural mutator pipelines (`damageEnemy()`), and complexity shielding through simplified execution interfaces.
+* **Huỳnh Ngọc Doanh (Inheritance & Polymorphism Lead):** Responsible for the core `Entity` hierarchy design, method overriding logic for combat animations, and dynamic dispatch management for entity collections.
+* **Member 3 (Architectural Design Patterns Engineer):** Implementation of the Delta Time Game Loop for hardware synchronization and the lightweight State Machine for Boss phase transitions (Idle/Aim/Attack).
+* **Nguyễn Hải Quan (Environmental Physics & Collision Specialist):** Development of the custom AABB collision engine, platform snapping rules, and the high-precision out-of-bounds abyss detection ($Y > 600$).
+* **Nguyễn Trọng Quý (SOLID Principles Reviewer - Part A):** Ensuring compliance with Single Responsibility (SRP), Open/Closed (OCP), and Liskov Substitution (LSP) to maintain code scalability.
+* **Nguyễn Minh Khôi (SOLID Principles Reviewer - Part B & UI Lead):** Orchestrating Interface Segregation (ISP), Dependency Inversion (DIP), and the real-time rendering of Win/Loss state UI overlays.
 ---
 
 ## 🚀 How to Run the Project
